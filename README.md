@@ -7,9 +7,9 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# GitHub Pages
+# SSJ200106_TEST
 
-_Create a site or blog from your GitHub repositories with GitHub Pages._
+_This is a regular testing page._
 
 </header>
 
@@ -23,9 +23,7 @@ _Create a site or blog from your GitHub repositories with GitHub Pages._
 
 ## Step 1: Enable GitHub Pages
 
-_Welcome to GitHub Pages and Jekyll :tada:!_
-
-The first step is to enable GitHub Pages on this [repository](https://docs.github.com/en/get-started/quickstart/github-glossary#repository). When you enable GitHub Pages on a repository, GitHub takes the content that's on the main branch and publishes a website based on its contents.
+This is a regular testing page. [baidu](https://www.baidu.com/).
 
 ### :keyboard: Activity: Enable GitHub Pages
 
